@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\deja0\Documents\DTU\TinyTapeout\tt10-chisel-game\target\scala-2.12\tt10-chisel-game_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ChiselTop$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\deja0\Documents\DTU\TinyTapeout\tt10-chisel-game\target\scala-2.12\classes\ChiselTop$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ChiselTop$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\deja0\Documents\DTU\TinyTapeout\tt10-chisel-game\target\scala-2.12\classes\ChiselTop$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ChiselTop$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\deja0\Documents\DTU\TinyTapeout\tt10-chisel-game\target\scala-2.12\classes\ChiselTop$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ChiselTop.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\deja0\Documents\DTU\TinyTapeout\tt10-chisel-game\target\scala-2.12\classes\ChiselTop.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
